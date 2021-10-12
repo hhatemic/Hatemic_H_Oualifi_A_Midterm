@@ -1,6 +1,6 @@
 # Hatemic_H_Oualifi_A_Midtermproject
 
-# Midterm: Debate Club Assignmentss
+# Midterm: Debate Club Assignment
  Ayman agrees that KFC is a good fast food place to get chicken, but 
  Hamza disagrees, and prefers Popeyes. In this assignment, we are 
  creating a one-page html folder, divided into 2 sections, where the 
