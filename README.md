@@ -1,4 +1,4 @@
-# Hatemic_H_Oualifi_A_Midtermproject
+# Hatemic_H_Oualifi_A_Midterm
 
 # Midterm: Debate Club Assignment
  Ayman agrees that KFC is a good fast food place to get chicken, but 
